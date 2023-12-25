@@ -1,2 +1,2 @@
 # Blog
-[Address](https://gjeodnd12165.github.io)
+[Go to the page](https://gjeodnd12165.github.io)
