@@ -1,2 +1,2 @@
 # Blog
-Blog for SC development and studies
+gjeodnd12165.github.io
